@@ -57,12 +57,12 @@ main.py        -> backend logic
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Ajay-B-Acharya/Ultimate-Tic-Tac-Toe
 ```
 
 ### 2. Open the Project
 ```bash
-cd your-repo-name
+cd Ultimate-Tic-Tac-Toe
 ```
 
 ### ⚙️ Frontend Setup (TypeScript)
