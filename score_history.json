@@ -1,0 +1,23 @@
+[
+  {
+    "id": "f94fd22a-b4ca-4dab-805c-87599e4bc948",
+    "timestamp": 1764223813,
+    "mode": "PvAI",
+    "difficulty": 1,
+    "winner": "Player 1"
+  },
+  {
+    "id": "539aecf9-897a-4b92-a421-c2d0fb43f3bd",
+    "timestamp": 1764239073,
+    "mode": "PvAI",
+    "difficulty": 3,
+    "winner": "Player 1"
+  },
+  {
+    "id": "c3cc11c7-daba-459a-ab8e-bc22d6402f53",
+    "timestamp": 1764242335,
+    "mode": "PvAI",
+    "difficulty": 1,
+    "winner": "Player 1"
+  }
+]

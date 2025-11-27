@@ -1,0 +1,5 @@
+{
+  "name": "Ultimate Tic Tac Toe",
+  "description": "A strategic multi-layered Tic Tac Toe game with an integrated AI opponent and difficulty settings.",
+  "requestFramePermissions": []
+}
