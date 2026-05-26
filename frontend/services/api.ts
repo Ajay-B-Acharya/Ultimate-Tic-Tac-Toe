@@ -1,5 +1,7 @@
 const envApiUrl = import.meta.env.VITE_API_URL?.trim();
-const API_BASE = envApiUrl ? envApiUrl.replace(/\/+$/, '') : '/api';
+const API_BASE =
+  envApiUrl?.replace(/\/+$/, '') ||
+  'https://ultimate-tic-tac-toe-8fp1.onrender.com';
 
 export interface GameConfig {
     mode: string;
