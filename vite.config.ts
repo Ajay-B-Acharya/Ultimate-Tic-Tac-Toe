@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const frontendRoot = path.resolve(__dirname, 'frontend');
     const env = loadEnv(mode, frontendRoot, '');
-    const apiProxyTarget = env.VITE_API_URL || 'http://localhost:8000';
+    const apiProxyTarget = env.VITE_API_URL || 'https://ultimate-tic-tac-toe-8fp1.onrender.com';
     return {
       envDir: frontendRoot,
       server: {
