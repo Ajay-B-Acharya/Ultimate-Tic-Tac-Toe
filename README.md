@@ -72,6 +72,13 @@ cd Ultimate-Tic-Tac-Toe
 npm install
 ```
 
+**Configure Frontend Environment**
+```bash
+copy frontend/.env.example frontend/.env
+```
+
+Update `frontend/.env` with your deployed backend URL if needed.
+
 **Run TypeScript Build / Dev Server**
 ```bash
 npm run dev
