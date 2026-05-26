@@ -1,5 +1,5 @@
 from typing import Optional, Tuple
-from .game_engine import MetaBoard, Player
+from game_engine import MetaBoard, Player
 from enum import Enum
 import random
 

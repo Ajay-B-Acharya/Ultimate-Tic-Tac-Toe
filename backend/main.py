@@ -5,8 +5,8 @@ from typing import Optional, List, Tuple
 import time
 import uuid
 from game_engine import MetaBoard, Player
-from .ai import get_ai_move, Difficulty
-from .score_history import ScoreHistory, GameResult, GameMode
+from ai import get_ai_move, Difficulty
+from score_history import ScoreHistory, GameResult, GameMode
 
 app = FastAPI()
 
