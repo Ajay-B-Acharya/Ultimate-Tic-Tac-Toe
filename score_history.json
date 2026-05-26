@@ -19,5 +19,12 @@
     "mode": "PvAI",
     "difficulty": 1,
     "winner": "Player 1"
+  },
+  {
+    "id": "f2cdad51-b5be-4e51-b90e-df88e7fda3b2",
+    "timestamp": 1779787589,
+    "mode": "PvAI",
+    "difficulty": 3,
+    "winner": "Player 1"
   }
 ]
